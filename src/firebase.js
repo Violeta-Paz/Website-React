@@ -6,13 +6,13 @@ import {getAuth} from 'firebase/auth'
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAALTcMYF7Uwc3kvW6nOOsno6Bu9sDmwQY",
-    authDomain: "wr-website-f68a6.firebaseapp.com",
-    projectId: "wr-website-f68a6",
-    storageBucket: "wr-website-f68a6.appspot.com",
-    messagingSenderId: "239258557964",
-    appId: "1:239258557964:web:eb0877e20bc5df512d9829",
-    measurementId: "G-ZET0F5FGGY"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 
